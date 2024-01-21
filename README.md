@@ -1,0 +1,1 @@
+This is a Social Media Application built using ASP.NET MVC. The application follows the Model-View-Controller (MVC) architectural pattern and includes Business Logic (BL) and Data Access Layer (DAL) components to manage data and application logic.
