@@ -1,0 +1,151 @@
+﻿@page
+@model ConfirmEmailChangeModel
+@{
+    ViewData["Title"] = "Confirm email change";
+}
+<style>
+    /*--------------------------------------------------------------
+        # Navigation Menu
+        --------------------------------------------------------------*/
+    /**
+        * Desktop Navigation
+        */
+    .navbar {
+        padding: 0;
+    }
+
+        .navbar ul {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            list-style: none;
+            align-items: center;
+        }
+
+        .navbar li {
+            position: relative;
+        }
+
+        .navbar a,
+        .navbar a:focus {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 10px 0 10px 30px;
+            font-family: "Nunito", sans-serif;
+            font-size: 16px;
+            font-weight: 700;
+            color: #013289;
+            white-space: nowrap;
+            transition: 0.3s;
+        }
+
+            .navbar a i,
+            .navbar a:focus i {
+                font-size: 12px;
+                line-height: 0;
+                margin-left: 5px;
+            }
+
+            .navbar a:hover,
+            .navbar .active,
+            .navbar .active:focus,
+            .navbar li:hover > a {
+                color: #4154f1;
+            }
+
+        .navbar .getstarted,
+        .navbar .getstarted:focus {
+            background: #4154f1;
+            padding: 8px 20px;
+            margin-left: 30px;
+            border-radius: 4px;
+            color: #fff;
+        }
+
+            .navbar .getstarted:hover,
+            .navbar .getstarted:focus:hover {
+                color: #fff;
+                background: #5969f3;
+            }
+
+
+    /**
+        * Mobile Navigation
+        */
+    .mobile-nav-toggle {
+        color: #012970;
+        font-size: 28px;
+        cursor: pointer;
+        display: none;
+        line-height: 0;
+        transition: 0.5s;
+    }
+
+        .mobile-nav-toggle.bi-x {
+            color: #fff;
+        }
+
+
+    .navbar-mobile {
+        position: fixed;
+        overflow: hidden;
+        top: 0;
+        right: 0;
+        left: 0;
+        bottom: 0;
+        background: rgba(1, 22, 61, 0.9);
+        transition: 0.3s;
+    }
+
+        .navbar-mobile .mobile-nav-toggle {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+        }
+
+        .navbar-mobile ul {
+            display: block;
+            position: absolute;
+            top: 55px;
+            right: 15px;
+            bottom: 15px;
+            left: 15px;
+            padding: 10px 0;
+            border-radius: 10px;
+            background-color: #fff;
+            overflow-y: auto;
+            transition: 0.3s;
+        }
+
+        .navbar-mobile a,
+        .navbar-mobile a:focus {
+            padding: 10px 20px;
+            font-size: 15px;
+            color: #012970;
+        }
+
+            .navbar-mobile a:hover,
+            .navbar-mobile .active,
+            .navbar-mobile li:hover > a {
+                color: #4154f1;
+            }
+
+        .navbar-mobile .getstarted,
+        .navbar-mobile .getstarted:focus {
+            margin: 15px;
+        }
+
+</style>
+<nav id="navbar" class="navbar">
+    <ul>
+        <li><a class="nav-link scrollto active" href="/">Home</a></li>
+        <li><a class="nav-link scrollto" href="/Identity/Account/Login">Login</a></li>
+
+        <li><a class="getstarted scrollto" href="/Identity/Account/Register">Register</a></li>
+    </ul>
+    <i class="bi bi-list mobile-nav-toggle"></i>
+</nav><!-- .navbar -->
+
+<h1>@ViewData["Title"]</h1>
+<partial name="_StatusMessage" model="Model.StatusMessage" />

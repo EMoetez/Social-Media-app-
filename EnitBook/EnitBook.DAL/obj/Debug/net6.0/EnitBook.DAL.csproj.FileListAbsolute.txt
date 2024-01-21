@@ -1,0 +1,153 @@
+C:\Users\ALPHA\Desktop\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.deps.json
+C:\Users\ALPHA\Desktop\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.runtimeconfig.json
+C:\Users\ALPHA\Desktop\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.dll
+C:\Users\ALPHA\Desktop\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.pdb
+C:\Users\ALPHA\Desktop\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.BL.dll
+C:\Users\ALPHA\Desktop\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.BL.pdb
+C:\Users\ALPHA\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.csproj.AssemblyReference.cache
+C:\Users\ALPHA\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALPHA\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.AssemblyInfoInputs.cache
+C:\Users\ALPHA\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.AssemblyInfo.cs
+C:\Users\ALPHA\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ALPHA\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.csproj.CopyComplete
+C:\Users\ALPHA\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.dll
+C:\Users\ALPHA\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\refint\EnitBook.DAL.dll
+C:\Users\ALPHA\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.pdb
+C:\Users\ALPHA\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.genruntimeconfig.cache
+C:\Users\ALPHA\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\ref\EnitBook.DAL.dll
+C:\Users\Achref\Desktop\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.deps.json
+C:\Users\Achref\Desktop\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.runtimeconfig.json
+C:\Users\Achref\Desktop\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.dll
+C:\Users\Achref\Desktop\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.pdb
+C:\Users\Achref\Desktop\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.BL.dll
+C:\Users\Achref\Desktop\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.BL.pdb
+C:\Users\Achref\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.csproj.AssemblyReference.cache
+C:\Users\Achref\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Achref\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.AssemblyInfoInputs.cache
+C:\Users\Achref\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.AssemblyInfo.cs
+C:\Users\Achref\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Achref\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.csproj.CopyComplete
+C:\Users\Achref\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.dll
+C:\Users\Achref\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\refint\EnitBook.DAL.dll
+C:\Users\Achref\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.pdb
+C:\Users\Achref\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.genruntimeconfig.cache
+C:\Users\Achref\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\ref\EnitBook.DAL.dll
+C:\Users\ASUS\Desktop\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.deps.json
+C:\Users\ASUS\Desktop\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.runtimeconfig.json
+C:\Users\ASUS\Desktop\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.dll
+C:\Users\ASUS\Desktop\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.pdb
+C:\Users\ASUS\Desktop\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.BL.dll
+C:\Users\ASUS\Desktop\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.BL.pdb
+C:\Users\ASUS\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.csproj.CopyComplete
+C:\Users\ASUS\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.dll
+C:\Users\ASUS\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\refint\EnitBook.DAL.dll
+C:\Users\ASUS\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.pdb
+C:\Users\ASUS\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\EnitBook\EnitBook.DAL\obj\Debug\net6.0\ref\EnitBook.DAL.dll
+C:\Users\Achref\Downloads\EnitBook\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.deps.json
+C:\Users\Achref\Downloads\EnitBook\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.runtimeconfig.json
+C:\Users\Achref\Downloads\EnitBook\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.dll
+C:\Users\Achref\Downloads\EnitBook\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.pdb
+C:\Users\Achref\Downloads\EnitBook\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.BL.dll
+C:\Users\Achref\Downloads\EnitBook\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.BL.pdb
+C:\Users\Achref\Downloads\EnitBook\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.csproj.AssemblyReference.cache
+C:\Users\Achref\Downloads\EnitBook\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Achref\Downloads\EnitBook\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.AssemblyInfoInputs.cache
+C:\Users\Achref\Downloads\EnitBook\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.AssemblyInfo.cs
+C:\Users\Achref\Downloads\EnitBook\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Achref\Downloads\EnitBook\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.csproj.CopyComplete
+C:\Users\Achref\Downloads\EnitBook\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.dll
+C:\Users\Achref\Downloads\EnitBook\EnitBook\EnitBook.DAL\obj\Debug\net6.0\refint\EnitBook.DAL.dll
+C:\Users\Achref\Downloads\EnitBook\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.pdb
+C:\Users\Achref\Downloads\EnitBook\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.genruntimeconfig.cache
+C:\Users\Achref\Downloads\EnitBook\EnitBook\EnitBook.DAL\obj\Debug\net6.0\ref\EnitBook.DAL.dll
+C:\Users\ASUS\Desktop\Nouveau dossier (2)\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.deps.json
+C:\Users\ASUS\Desktop\Nouveau dossier (2)\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.runtimeconfig.json
+C:\Users\ASUS\Desktop\Nouveau dossier (2)\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.dll
+C:\Users\ASUS\Desktop\Nouveau dossier (2)\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.pdb
+C:\Users\ASUS\Desktop\Nouveau dossier (2)\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.BL.dll
+C:\Users\ASUS\Desktop\Nouveau dossier (2)\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.BL.pdb
+C:\Users\ASUS\Desktop\Nouveau dossier (2)\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Nouveau dossier (2)\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Nouveau dossier (2)\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Nouveau dossier (2)\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Nouveau dossier (2)\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Nouveau dossier (2)\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Nouveau dossier (2)\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.dll
+C:\Users\ASUS\Desktop\Nouveau dossier (2)\EnitBook\EnitBook.DAL\obj\Debug\net6.0\refint\EnitBook.DAL.dll
+C:\Users\ASUS\Desktop\Nouveau dossier (2)\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.pdb
+C:\Users\ASUS\Desktop\Nouveau dossier (2)\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Nouveau dossier (2)\EnitBook\EnitBook.DAL\obj\Debug\net6.0\ref\EnitBook.DAL.dll
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.deps.json
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.runtimeconfig.json
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.dll
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.pdb
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.BL.dll
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook\EnitBook.DAL\bin\Debug\net6.0\EnitBook.BL.pdb
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.csproj.AssemblyReference.cache
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.AssemblyInfoInputs.cache
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.AssemblyInfo.cs
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.csproj.CopyComplete
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.dll
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook\EnitBook.DAL\obj\Debug\net6.0\refint\EnitBook.DAL.dll
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.pdb
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.genruntimeconfig.cache
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook\EnitBook.DAL\obj\Debug\net6.0\ref\EnitBook.DAL.dll
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook_TEST\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.deps.json
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook_TEST\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.runtimeconfig.json
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook_TEST\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.dll
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook_TEST\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.pdb
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook_TEST\EnitBook.DAL\bin\Debug\net6.0\EnitBook.BL.dll
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook_TEST\EnitBook.DAL\bin\Debug\net6.0\EnitBook.BL.pdb
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.csproj.AssemblyReference.cache
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.AssemblyInfoInputs.cache
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.AssemblyInfo.cs
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.csproj.CopyComplete
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.dll
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\refint\EnitBook.DAL.dll
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.pdb
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.genruntimeconfig.cache
+C:\Users\MSI\Downloads\EnitBook ayoub benemna+achref habli +rabii bakeri\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\ref\EnitBook.DAL.dll
+C:\Users\MSI\Desktop\MP_ASP.NET\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.deps.json
+C:\Users\MSI\Desktop\MP_ASP.NET\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.runtimeconfig.json
+C:\Users\MSI\Desktop\MP_ASP.NET\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.dll
+C:\Users\MSI\Desktop\MP_ASP.NET\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.pdb
+C:\Users\MSI\Desktop\MP_ASP.NET\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\bin\Debug\net6.0\EnitBook.BL.dll
+C:\Users\MSI\Desktop\MP_ASP.NET\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\bin\Debug\net6.0\EnitBook.BL.pdb
+C:\Users\MSI\Desktop\MP_ASP.NET\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\MP_ASP.NET\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\MP_ASP.NET\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\MP_ASP.NET\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.AssemblyInfo.cs
+C:\Users\MSI\Desktop\MP_ASP.NET\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\MP_ASP.NET\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.csproj.CopyComplete
+C:\Users\MSI\Desktop\MP_ASP.NET\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.dll
+C:\Users\MSI\Desktop\MP_ASP.NET\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\refint\EnitBook.DAL.dll
+C:\Users\MSI\Desktop\MP_ASP.NET\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.pdb
+C:\Users\MSI\Desktop\MP_ASP.NET\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.genruntimeconfig.cache
+C:\Users\MSI\Desktop\MP_ASP.NET\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\ref\EnitBook.DAL.dll
+C:\Users\MSI\Desktop\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.deps.json
+C:\Users\MSI\Desktop\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.runtimeconfig.json
+C:\Users\MSI\Desktop\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.dll
+C:\Users\MSI\Desktop\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\bin\Debug\net6.0\EnitBook.DAL.pdb
+C:\Users\MSI\Desktop\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\bin\Debug\net6.0\EnitBook.BL.dll
+C:\Users\MSI\Desktop\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\bin\Debug\net6.0\EnitBook.BL.pdb
+C:\Users\MSI\Desktop\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.AssemblyInfo.cs
+C:\Users\MSI\Desktop\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.csproj.CopyComplete
+C:\Users\MSI\Desktop\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.dll
+C:\Users\MSI\Desktop\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\refint\EnitBook.DAL.dll
+C:\Users\MSI\Desktop\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.pdb
+C:\Users\MSI\Desktop\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\EnitBook.DAL.genruntimeconfig.cache
+C:\Users\MSI\Desktop\EnitBook MoetezBelayadi&MontassarLaboudi\EnitBook_TEST\EnitBook.DAL\obj\Debug\net6.0\ref\EnitBook.DAL.dll

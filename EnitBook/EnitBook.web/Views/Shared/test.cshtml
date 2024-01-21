@@ -1,0 +1,100 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using EnitBook.BL.Entities;
+@inject UserManager<User> UserManager
+
+<link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" rel="stylesheet" id="bootstrap-css">
+<!------ Include the above in your HEAD tag ---------->
+<style>
+    .container {
+        transform: translateX(260px);
+    }
+
+    .row-fluid {
+        padding: 20px;
+    }
+
+    .add {
+        padding: 10px 15px;
+        border: 1px solid blue;
+        background: blue;
+        border-radius: 5px;
+        transition: 0.3s;
+        color: #fff;
+        cursor: pointer;
+        text-decoration: none;
+    }
+
+        .add:hover {
+            background: #fff;
+            color: blue;
+        }
+
+    h6 {
+        color: #4154f1cf;
+        letter-spacing: 1px;
+        margin-bottom: 40px;
+    }
+
+    .back {
+        cursor: pointer;
+        margin-left: 20px;
+        transition: 0.3s;
+    }
+
+        .back:hover {
+            color: red;
+        }
+</style>
+<br>
+<br>
+<div class="container-fluid well span6">
+    @if (ViewBag.NoMatch != null && ViewBag.NoMatch)
+    {
+        <div class="alert alert-danger" role="alert">
+            No matching user found!
+        </div>
+        <a class="back" href="~/Profils/Index">Go Back</a>
+    }
+    else if (ViewBag.fname == null)
+    {
+        <div class="alert alert-danger" role="alert">
+            This is the current User!
+        </div>
+        <a class="back" href="~/Profils/Index">Go Back</a>
+    }
+    
+    else
+    {
+        var currentUser = await UserManager.GetUserAsync(User);
+
+        <div class="row-fluid">
+            <div class="span2">
+                @if (ViewBag.img != null)
+                {
+                    <img src="data:image/png;base64,@Convert.ToBase64String(@ViewBag.img)" alt="Profile Picture" class="img-circle" />
+                }
+                else
+                {
+                    <!-- Handle the case where the profile picture is null, e.g., display a default image or a placeholder -->
+                    <img src="path/to/default-image.png" alt="Default Image" class="img-circle" />
+                }
+
+            </div>
+
+            <div class="span8">
+                <h3>@ViewBag.fname @ViewBag.lname</h3>
+                <h6>Email: @ViewBag.mail</h6>
+                <div class="btns">
+                        <form method="post" action="@Url.Action("AddFriend", "Profils")">
+                            <input type="hidden" name="email" value="@ViewBag.mail" />
+                            <input type="hidden" name="firstname" value="@ViewBag.fname" />
+                            <input type="hidden" name="lastname" value="@ViewBag.lname" />
+                            <button class="add" type="submit">Follow</button>
+                        </form>
+                    
+                    <a class="back" href="~/Profils/Index">Go Back</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

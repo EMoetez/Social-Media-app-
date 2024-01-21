@@ -1,0 +1,1281 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EnitBook.web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EnitBook.web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\Asset\\Audiobook-rafiki.svg",
+      "PackagePath": "staticwebassets\\Asset\\Audiobook-rafiki.svg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\Asset\\Book lover-amico.svg",
+      "PackagePath": "staticwebassets\\Asset\\Book lover-amico.svg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\Asset\\Push notifications-cuate.svg",
+      "PackagePath": "staticwebassets\\Asset\\Push notifications-cuate.svg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\Asset\\téléchargement.png",
+      "PackagePath": "staticwebassets\\Asset\\téléchargement.png"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\Logo ENIT PNG.png",
+      "PackagePath": "staticwebassets\\assets\\Logo ENIT PNG.png"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\blog\\blog-author-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-author-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\blog\\blog-author-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-author-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\blog\\blog-author-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-author-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\blog\\blog-author-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-author-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\blog\\blog-author-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-author-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\blog\\blog-author.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\blog\\blog-inside-post.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-inside-post.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\blog\\blog-recent-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-recent-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\blog\\blog-recent-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-recent-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\blog\\blog-recent-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-recent-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\blog\\blog-recent-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-recent-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\blog\\blog-recent-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-recent-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\blog\\comments-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\comments-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\blog\\comments-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\comments-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\blog\\comments-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\comments-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\blog\\comments-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\comments-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\blog\\comments-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\comments-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\blog\\comments-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\comments-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\clients\\client-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\client-1.png"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\clients\\client-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\client-2.png"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\clients\\client-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\client-3.png"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\clients\\client-4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\client-4.png"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\clients\\client-5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\client-5.png"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\clients\\client-6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\client-6.png"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\cta-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cta-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\features-light-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\features-light-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\features-light-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\features-light-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\features-light-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\features-light-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\istockphoto-1409540606-612x612 (1).jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\istockphoto-1409540606-612x612 (1).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\istockphoto-1409540606-612x612.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\istockphoto-1409540606-612x612.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\masonry-portfolio\\masonry-portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\masonry-portfolio\\masonry-portfolio-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\masonry-portfolio\\masonry-portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\masonry-portfolio\\masonry-portfolio-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\masonry-portfolio\\masonry-portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\masonry-portfolio\\masonry-portfolio-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\masonry-portfolio\\masonry-portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\masonry-portfolio\\masonry-portfolio-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\masonry-portfolio\\masonry-portfolio-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\masonry-portfolio\\masonry-portfolio-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\masonry-portfolio\\masonry-portfolio-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\masonry-portfolio\\masonry-portfolio-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\masonry-portfolio\\masonry-portfolio-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\masonry-portfolio\\masonry-portfolio-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\masonry-portfolio\\masonry-portfolio-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\masonry-portfolio\\masonry-portfolio-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\masonry-portfolio\\masonry-portfolio-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\masonry-portfolio\\masonry-portfolio-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\portfolio\\app-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\app-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\portfolio\\books-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\books-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\portfolio\\branding-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\branding-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\portfolio\\product-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\services.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\stats-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\stats-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\team\\team-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\team\\team-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\team\\team-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\team\\team-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\testimonials\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\testimonials\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\testimonials\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\testimonials\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\img\\testimonials\\testimonials-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\scss\\Readme.txt",
+      "PackagePath": "staticwebassets\\assets\\scss\\Readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\aos\\aos.cjs.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.cjs.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\aos\\aos.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\aos\\aos.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\glightbox\\css\\plyr.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\plyr.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\glightbox\\css\\plyr.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\plyr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\isotope-layout\\isotope.pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\purecounter\\purecounter_vanilla.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\purecounter\\purecounter_vanilla.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\purecounter\\purecounter_vanilla.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\purecounter\\purecounter_vanilla.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\css\\style.css",
+      "PackagePath": "staticwebassets\\assetss\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\assetss\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assetss\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\img\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\img\\portfolio\\portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\portfolio\\portfolio-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\img\\portfolio\\portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\portfolio\\portfolio-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\img\\portfolio\\portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\portfolio\\portfolio-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\img\\portfolio\\portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\portfolio\\portfolio-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\img\\portfolio\\portfolio-5.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\portfolio\\portfolio-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\img\\portfolio\\portfolio-6.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\portfolio\\portfolio-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\img\\portfolio\\portfolio-7.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\portfolio\\portfolio-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\img\\portfolio\\portfolio-8.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\portfolio\\portfolio-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\img\\portfolio\\portfolio-9.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\portfolio\\portfolio-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\img\\portfolio\\portfolio-details-1.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\portfolio\\portfolio-details-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\img\\portfolio\\portfolio-details-2.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\portfolio\\portfolio-details-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\img\\portfolio\\portfolio-details-3.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\portfolio\\portfolio-details-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\img\\profile-img.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\profile-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\img\\testimonials\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\testimonials\\testimonials-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\img\\testimonials\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\testimonials\\testimonials-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\img\\testimonials\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\testimonials\\testimonials-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\img\\testimonials\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\testimonials\\testimonials-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\img\\testimonials\\testimonials-5.jpg",
+      "PackagePath": "staticwebassets\\assetss\\img\\testimonials\\testimonials-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\js\\main.js",
+      "PackagePath": "staticwebassets\\assetss\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\scss\\Readme.txt",
+      "PackagePath": "staticwebassets\\assetss\\scss\\Readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\aos\\aos.cjs.js",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\aos\\aos.cjs.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\aos\\aos.esm.js",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\aos\\aos.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\aos\\aos.js.map",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\aos\\aos.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\boxicons\\css\\animations.css",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\boxicons\\css\\animations.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\boxicons\\css\\boxicons.css",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\boxicons\\css\\boxicons.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\boxicons\\css\\transformations.css",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\boxicons\\css\\transformations.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\boxicons\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\glightbox\\css\\plyr.css",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\glightbox\\css\\plyr.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\glightbox\\css\\plyr.min.css",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\glightbox\\css\\plyr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\isotope-layout\\isotope.pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\isotope-layout\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\purecounter\\purecounter_vanilla.js",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\purecounter\\purecounter_vanilla.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\purecounter\\purecounter_vanilla.js.map",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\purecounter\\purecounter_vanilla.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\typed.js\\typed.cjs",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\typed.js\\typed.cjs"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\typed.js\\typed.cjs.map",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\typed.js\\typed.cjs.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\typed.js\\typed.module.js",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\typed.js\\typed.module.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\typed.js\\typed.module.js.map",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\typed.js\\typed.module.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\typed.js\\typed.umd.js",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\typed.js\\typed.umd.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\typed.js\\typed.umd.js.map",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\typed.js\\typed.umd.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\assetss\\vendor\\waypoints\\noframework.waypoints.js",
+      "PackagePath": "staticwebassets\\assetss\\vendor\\waypoints\\noframework.waypoints.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\css\\animation.css",
+      "PackagePath": "staticwebassets\\css\\animation.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\forms\\Readme.txt",
+      "PackagePath": "staticwebassets\\forms\\Readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\forms\\contact.php",
+      "PackagePath": "staticwebassets\\forms\\contact.php"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\Desktop\\EnitBook MoetezBelayadi&MontassarLaboudi\\EnitBook_TEST\\EnitBook.web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.EnitBook.web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.EnitBook.web.props",
+      "PackagePath": "build\\EnitBook.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.EnitBook.web.props",
+      "PackagePath": "buildMultiTargeting\\EnitBook.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.EnitBook.web.props",
+      "PackagePath": "buildTransitive\\EnitBook.web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

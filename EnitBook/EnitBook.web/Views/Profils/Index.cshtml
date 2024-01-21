@@ -1,0 +1,428 @@
+﻿@model EnitBook.BL.Entities.ProfilPostsViewModel;
+
+<style>
+/*--------------------------------------------------------------
+# Navigation Menu
+--------------------------------------------------------------*/
+/**
+* Desktop Navigation
+*/
+.glass {
+  backdrop-filter: blur(10px) saturate(180%);
+  -webkit-backdrop-filter: blur(10px) saturate(180%);
+  background-color: rgba(255, 255, 255, 0.75);
+  border-radius: 12px;
+  border: 1px solid rgba(209, 213, 219, 0.3);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+}
+.navbar {
+  padding: 50px;
+}
+
+.navbar ul {
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  list-style: none;
+  align-items: center;
+  backdrop-filter: blur(10px) saturate(180%);
+  -webkit-backdrop-filter: blur(10px) saturate(180%);
+  background-color: rgba(255, 255, 255, 0.75);
+  border-radius: 12px;
+  border: 1px solid rgba(209, 213, 219, 0.3);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+}
+
+.navbar li {
+  position: relative;
+}
+
+.navbar a,
+.navbar a:focus {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 0 10px 30px;
+  font-family: "Nunito", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  color: #ff5050;
+  white-space: nowrap;
+  transition: 0.3s;
+}
+
+.navbar a i,
+.navbar a:focus i {
+  font-size: 12px;
+  line-height: 0;
+  margin-left: 5px;
+}
+.navbar .active{
+    color: #ff5050;
+}
+.navbar a:hover,
+
+.navbar .active:focus,
+.navbar li:hover>a {
+  color: #b30000;
+}
+
+.navbar .getstarted,
+.navbar .getstarted:focus {
+  background: #ff5050;
+  padding: 8px 20px;
+  margin-left: 30px;
+  border-radius: 4px;
+  color: #fff;
+}
+
+.navbar .getstarted:hover,
+.navbar .getstarted:focus:hover {
+  color: #fff;
+  background: #5969f3;
+}
+
+
+/**
+* Mobile Navigation
+*/
+.mobile-nav-toggle {
+  color: #012970;
+  font-size: 28px;
+  cursor: pointer;
+  display: none;
+  line-height: 0;
+  transition: 0.5s;
+}
+
+.mobile-nav-toggle.bi-x {
+  color: #fff;
+}
+
+
+.navbar-mobile {
+  position: fixed;
+  overflow: hidden;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  background: rgba(1, 22, 61, 0.9);
+  transition: 0.3s;
+}
+
+.navbar-mobile .mobile-nav-toggle {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}
+
+.navbar-mobile ul {
+  display: block;
+  position: absolute;
+  top: 55px;
+  right: 15px;
+  bottom: 15px;
+  left: 15px;
+  padding: 10px 0;
+  border-radius: 10px;
+  background-color: #fff;
+  overflow-y: auto;
+  transition: 0.3s;
+}
+
+.navbar-mobile a,
+.navbar-mobile a:focus {
+  padding: 10px 20px;
+  font-size: 15px;
+  color: #012970;
+}
+
+.navbar-mobile a:hover,
+.navbar-mobile .active,
+.navbar-mobile li:hover>a {
+  color: #4154f1;
+}
+
+.navbar-mobile .getstarted,
+.navbar-mobile .getstarted:focus {
+  margin: 15px;
+}
+.no-posts {
+    text-align:center;
+    font-weight: bold;
+    color: #fff;
+    background:#4154f1cf;
+    padding: 10px 5px;
+    border-radius: 5px;
+    margin-top: 40px;
+}
+.postContainer {
+        border: 30px solid #fff;
+        border-radius : 3px;
+        width: 600px;
+        margin: 30px auto;
+    }
+.imgPost {
+    width:100%;
+    border-radius: 3px;
+}
+.postHeader {
+    padding: 10px 20px;
+    background: #fff;
+}
+/*body{
+    background: #ddd;
+    font-family : arial,sans-serif;
+}*/
+
+body {
+  /*background: linear-gradient(135deg, #87CEFA, #FFD700);*/
+        font-family: 'Arial', sans-serif;
+        color: #333;
+        margin: 0;
+        padding: 0;
+        /* Set the background image */
+        background-image: url('/assets/img/istockphoto-1409540606-612x612 (1).jpeg');
+        /* Specify the size and how the image should be repeated */
+        background-size: cover; /* or 'contain' for a different effect */
+        background-repeat: no-repeat;
+        /* Center the background image */
+        background-position: center center;
+        /* Set a background color in case the image is not available or doesn't cover the entire viewport */
+        background-color: #f2f2f2; /* Choose a color that complements your image */
+        /* Set background attachment to fixed if you want a fixed background */
+        /* background-attachment: fixed; */
+}
+
+/* Rest of your styling for navigation, profiles, posts, comments, etc. */
+
+h4{
+    display: flex;
+    gap: 340px;
+}
+h4 i{
+    cursor: pointer;
+}
+.btns a{
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 6px 15px;
+    color : #ff5050;
+    font-weight: bold;
+    transition: 0.3s;
+    letter-spacing: 2px;
+    margin: 15px;
+    cursor: pointer;
+    text-decoration: none;
+
+}
+
+    .btns {
+        display: flex;
+        justify-content: flex-end;
+    }
+.btns a:hover{
+    background: white;
+    color:#b30000;
+}
+
+.fa-heart{
+    font-weight: bold;
+    font-size: 25px;
+    color: blue;
+    transition: 0.3s ease;
+    cursor: pointer;
+}
+h4{
+    font-family: Courier New, Courier, monospace;
+    font-weight: 600;
+    font-size: 20px;
+
+}
+.search{
+    margin-left: 35px;
+    outline: none;
+    padding: 4px;
+    border-radius: 4px;
+    border : 1px solid blue;
+}
+.searchbtn{
+    padding: 7px 15px;
+    background: #ff5050;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: bold;
+    border: none;
+    transition: 0.3s;
+
+    }
+    .searchbtn:hover{
+        background: #b30000;
+
+    }
+    #commentContent{
+        border: 1px solid #ff5050;
+        outline: none;
+        border-radius: 5px;
+    }
+    .commentForm{
+        background: #fff;
+        display: flex;
+        gap: 20px;
+        align-items: center;
+        justify-content: center;
+    }
+
+    label {
+        transform: translateY(-21px);
+        font-weight: bold;
+        color: blue;
+    }
+
+    button.commentBtn {
+        color: white;
+        font-weight: 400;
+        padding: 10px 5px;
+        border: 1px solid #ff5050;
+        border-radius: 5px;
+        background:#ff5050 ;
+        transform: translateY(-4px);
+    }
+
+    .features {
+        display: flex;
+        align-items: center;
+        background: #fff;
+        gap: 90px;
+        padding-left: 15px;
+    }
+
+    .comment {
+        border: 1px solid #fff;
+        border-radius: 5px;
+        padding: 10px;
+        margin-top: 10px;
+        background-color: #fff;
+    }
+
+    .comment-content {
+        margin-bottom: 5px;
+    }
+
+    .comment-details {
+        color: #555;
+    }
+
+    .comment-date {
+        margin-left: 10px;
+        font-size: 12px;
+    }
+    .comTitle{
+        color: blue;
+        width: 100px;
+        margin: 0 auto;
+        font-weight: bold;
+        margin-top: 10px;
+        text-decoration: underline;
+    }
+    .name{
+        padding: 10px;
+    }
+    .content{
+        padding: 10px;
+    }
+
+</style>
+<link rel="stylesheet" href="~/css/animation.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+<nav id="navbar" class="navbar">
+    <ul>
+        
+        <li><a class="nav-link scrollto" href="/Profils/Index">Posts</a></li>
+        <li><a class="nav-link scrollto" href="/Profils/MyFriends">Friends</a></li>
+
+        <li><a class="nav-link scrollto" href="/Profils/Create">Profile</a></li>
+        <form method="post" action="@Url.Action("Search", "Profils")">
+            <input name="inputValue" class="search" placeholder="Search..." type="search" />
+            <button class="searchbtn" type="search">Search</button>
+        </form>
+
+        <li><a class="nav-link scrollto active" href="/Posts/Create"> Create a Post</a></li>
+
+        <li> <partial name="/Views/Home/_LoginPartial.cshtml" /></li>
+    </ul>
+    <i class="bi bi-list mobile-nav-toggle"></i>
+</nav><!-- .navbar -->
+
+
+   
+@if (Model.Posts.Any())
+{
+    foreach (var post in Model.Posts)
+    {
+                <div class="postContainer">
+                    <div class="postHeader">
+                        <div class="userImage">
+                    @if (post.User.ProfilePicture != null)
+                    {
+                                 <img style="width:40px;height:40px; object-fit:cover; border-radius:30px" class="imgUser" src="data:image/png;base64,@Convert.ToBase64String(post.User.ProfilePicture)" alt="User Image" />
+                                 <span class= "name"> <a>@post.User.FirstName @post.User.LastName </a></span>
+                    }
+                        </div>
+                       
+                        <div class="details">
+                            <small class="by text-muted fw-bold"></small>
+                            <br />
+                            <small class="publishTimeDate text-muted fw-light">@post.PublishedDateTime</small>
+                        </div>
+                        
+                        <p class="content">@post.Content</p>
+                    </div>
+            @if (post.PostImage != null)
+            {
+                   <img class="imgPost" src="data:image/png;base64,@Convert.ToBase64String(post.PostImage)" alt="Post Picture" />
+            }
+
+                    <div class="features">
+                        
+                        <div class="btns">
+                            <a class="editBtn" href="~/Posts/Edit/@post.PostId"><i class="fa-solid fa-pen-to-square"></i></a>
+                            <a class="delBtn" href="~/Posts/Delete/@post.PostId"><i class="fa-solid fa-trash"></i></a>
+                            
+                        </div>
+
+                    </div>
+            
+            <div class="commentsSection">
+               
+                @foreach (var comment in Model.Comments.Where(c => c.PostId == post.PostId))
+                {
+                    <div class="comment">
+                         <small class="comment-details">
+                            @comment.User.FirstName @comment.User.LastName
+                           
+                        </small>
+                        <p class="comment-content fw-bold" >@comment.Content</p>
+                       
+                    </div>
+
+                }
+            </div>
+            <form asp-action="AddComment" method="post" class="commentForm">
+                <div>
+                    
+                    <textarea name="commentContent" id="commentContent" rows="1"></textarea>
+                </div>
+
+                <input type="hidden" name="postId" value="@post.PostId" />
+
+                <button class="commentBtn" type="submit">Add</button>
+            </form>
+                </div>
+    }
+}
+else
+{
+        <div class="no-posts">There are no posts to show!</div>
+}

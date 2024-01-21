@@ -1,0 +1,25 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using EnitBook.BL.Entities
+@inject SignInManager<User> SignInManager
+@inject UserManager<User> UserManager
+
+
+<style>
+ .btn-link{
+     font-weight: bold;
+     color: #fff;
+     padding: 10px;
+
+     
+ }
+</style>
+<ul class="navbar-nav">
+@if (SignInManager.IsSignedIn(User))
+{
+    <li class="nav-item">
+        <form  class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                <button type="submit" class="nav-link getstarted btn btn-link"> Logout </button>
+        </form>
+    </li>
+}
+</ul>

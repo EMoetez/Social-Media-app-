@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>aspnet-EnitBook.web-7a15d959-f24a-4ea2-a773-7339f695c457</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="Views\test.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="6.0.24" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.24" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.24" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="6.0.23" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.24" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.24" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EnitBook.DAL\EnitBook.DAL.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Views\test.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Views\test.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Views\Shared\test.cshtml" />
+  </ItemGroup>
+
+</Project>

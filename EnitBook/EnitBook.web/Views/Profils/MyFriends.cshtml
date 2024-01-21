@@ -1,0 +1,217 @@
+﻿@model IEnumerable<EnitBook.BL.Entities.Friend>
+@inject EnitBook.DAL.EnitBookDbContext _context;
+
+@{
+    ViewData["Title"] = "MyFriends";
+}
+@*
+<style>
+    body {
+        margin-top: 20px;
+        background: #f8f9fa;
+    }
+
+    .avatar.avatar-xl {
+        width: 7rem;
+        height: 7rem;
+        line-height: 7rem;
+    }
+
+    .avatar {
+        width: 3rem;
+        height: 3rem;
+        line-height: 3rem;
+        border-radius: 50%;
+        display: inline-block;
+        background: #ced4da no-repeat center/cover;
+        position: relative;
+        text-align: center;
+        color: #fff;
+        font-weight: 600;
+        overflow: hidden;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+    .card {
+        background-color: #fff;
+        border: 0 solid #eee;
+        border-radius: 8px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        margin-bottom: 20px;
+    }
+
+    .card-body {
+        padding: 1.5rem;
+    }
+
+    .media-body {
+        overflow: hidden;
+    }
+
+    .card-text {
+        color: #495057;
+        font-size: 14px;
+    }
+
+    .text-uppercase {
+        text-transform: uppercase;
+    }
+
+    .tile-link {
+        position: absolute;
+        cursor: pointer;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        top: 0;
+        z-index: 30;
+    }
+    h1{
+        color: blue;
+        width: 100px;
+        margin: 20px auto;
+        text-decoration: underline;
+    }
+
+    .row {
+        margin: 0 -15px;
+    }
+
+    .col-md-6 {
+        padding: 0 15px;
+    }
+    a{
+        width: 1px;
+        margin: 0 auto;
+        display: flex;
+        cursor: pointer;
+        font-size: 25px;
+        margin-bottom: 30px;
+    }
+</style>
+
+<h1>MyFriends</h1>
+<a class="getBack" href="/Profils/Index">Back</a>
+
+<div class="container">
+    <div class="row">
+        @foreach (var friend in Model)
+        {
+            var user = _context.Users.FirstOrDefault(u => u.Id == friend.UserId);
+
+            <div class="col-md-6 col-xl-4">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="media align-items-center">
+                            <span style="background-image: url('data:image/jpeg;base64,@Convert.ToBase64String(user.ProfilePicture ?? new byte[0])')" class="avatar avatar-xl mr-3"></span>
+                            <div class="media-body overflow-hidden">
+                                <h5 class="card-text mb-0">@friend.name @friend.lstname</h5>
+                                <p class="card-text text-uppercase text-muted">@friend.HostId</p>
+                                <p class="card-text">
+                                    @user.Email<br>
+                                   
+                                </p>
+                            </div>
+                        </div>
+                        <a href="#" class="tile-link"></a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+*@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Friends</title>
+    <style>
+        body {
+            background-image: url('/assets/img/istockphoto-1409540606-612x612 (1).jpeg'); /* Replace with your background image */
+            background-size: cover;
+            background-position: center;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        h1 {
+            background-color: rgba(255, 255, 255, 0.3); /* Glassy effect for "My Friends" text */
+            display: inline-block;
+            padding: 20px;
+            border-radius: 10px;
+            backdrop-filter: blur(10px); /* Add a blur effect for glassy appearance */
+        }
+
+        .getBack {
+            background-color: rgba(255, 255, 255, 0.3); /* Glassy effect for "Back" button */
+            display: inline-block;
+            padding: 20px;
+            margin-left: 10px; /* Adjust margin as needed */
+            text-decoration: none;
+            border-radius: 10px;
+            color: #007bff; /* Button text color */
+            backdrop-filter: blur(10px); /* Add a blur effect for glassy appearance */
+        }
+
+            .getBack:hover {
+                background-color: rgba(255, 255, 255, 0.5); /* Change background on hover */
+            }
+
+        .container {
+            margin-top: 20px; /* Adjust margin as needed */
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+
+        .card {
+            width: 100%;
+            background-color: rgba(255, 255, 255, 0.9); /* Glassy effect for cards */
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
+            width: 500px;
+            height: 300px;
+        }
+
+        .avatar {
+            display: block;
+            width: 80px;
+            height: 80px;
+            background-size: cover;
+            background-position: center;
+            border-radius: 50%;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>My Friends</h1>
+    <a class="getBack" href="/Profils/Index">Back</a>
+
+    <div class="container">
+        @foreach (var friend in Model)
+        {
+            var user = _context.Users.FirstOrDefault(u => u.Id == friend.UserId);
+
+            <div class="card">
+                <div class="media align-items-center">
+                    <span style="background-image: url('data:image/jpeg;base64,@Convert.ToBase64String(user.ProfilePicture ?? new byte[0])')" class="avatar avatar-xl mr-3"></span>
+                    <div class="media-body overflow-hidden">
+                        <h5 class="card-text mb-0">@friend.name @friend.lstname</h5>
+                       
+                        <p class="card-text">
+                            @user.Email<br>
+                        </p>
+                    </div>
+                </div>
+                <a href="#" class="tile-link"></a>
+            </div>
+        }
+    </div>
+
+</body>
+</html>
+

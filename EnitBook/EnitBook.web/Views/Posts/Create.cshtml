@@ -1,0 +1,107 @@
+﻿@using EnitBook.BL.Entities
+@model EnitBook.BL.Entities.Post
+@inject Microsoft.AspNetCore.Identity.UserManager<User> UserManager
+
+@{
+    ViewData["Title"] = "Create";
+}
+<style>
+    body {
+        /*background: linear-gradient(135deg, #87CEFA, #FFD700);*/
+        font-family: 'Arial', sans-serif;
+        color: #333;
+        margin: 0;
+        padding: 0;
+        /* Set the background image */
+        background-image: url('/assets/img/istockphoto-1409540606-612x612 (1).jpeg');
+        /* Specify the size and how the image should be repeated */
+        background-size: cover; /* or 'contain' for a different effect */
+        background-repeat: no-repeat;
+        /* Center the background image */
+        background-position: center center;
+        /* Set a background color in case the image is not available or doesn't cover the entire viewport */
+        background-color: #f2f2f2; /* Choose a color that complements your image */
+        /* Set background attachment to fixed if you want a fixed background */
+        /* background-attachment: fixed; */
+    }
+
+    .boxx{
+        margin: 50px;
+        width: 100%;
+        background-color: rgba(255, 255, 255, 0.9); /* Glassy effect for cards */
+        padding: 50px;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+    h1{
+        color: #000;
+        
+    }
+
+    .custom-file-input {
+        display: none;
+    }
+
+    .custom-file-label {
+        border: 1px solid #ced4da;
+        border-radius: 5px;
+        padding: 0.375rem 0.75rem;
+        cursor: pointer;
+    }
+
+        .custom-file-label::after {
+            content: "Browse";
+        }
+
+    .custom-file-input:focus + .custom-file-label,
+    .custom-file-input.has-focus + .custom-file-label {
+        border-color: #51cbce;
+        box-shadow: 0 0 0 0.2rem rgba(81, 203, 206, 0.25);
+    }
+</style>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 offset-md-2">
+            <div class="boxx">
+            <h1 class="text-center mb-4">Create Post</h1>
+            <hr />
+     
+            <form asp-action="Create" method="post" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-group">
+                    <label asp-for="Title" class="control-label">Title:</label>
+                    <input asp-for="Title" class="form-control" />
+                    <span asp-validation-for="Title" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Content" class="control-label">Content:</label>
+                    <textarea asp-for="Content" class="form-control" rows="5"></textarea>
+                    <span asp-validation-for="Content" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="PostImage" class="control-label">Upload Image:</label>
+                    <div class="custom-file">
+                        <input asp-for="PostImage" type="file" class="custom-file-input" id="customFile">
+                        <label class="custom-file-label" for="customFile">Choose file</label>
+                    </div>
+                    <span asp-validation-for="PostImage" class="text-danger"></span>
+                </div>
+
+                <div class="form-group text-center">
+                    <span> <a href="/Profils/Index" class="btn btn-secondary"> Back </a></span><button type="submit" class="btn btn-primary">Create</button>
+                </div>
+            </form> 
+     </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

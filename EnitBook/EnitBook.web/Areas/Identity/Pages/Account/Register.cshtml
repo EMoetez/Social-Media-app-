@@ -1,0 +1,225 @@
+﻿@page
+@model RegisterModel
+
+
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<style>
+    .register {
+        background: -webkit-linear-gradient(left, #D2691E, #FF7F50);
+        margin-top: 95px;
+        border-radius: 10px;
+    }
+
+    body {
+        background:#FF7F50;
+    }
+    div{
+        text-align: center;
+    }
+
+    .register-left {
+        text-align: center;
+        color: #fff;
+        margin-top: 4%;
+    }
+
+        .register-left input {
+            border: none;
+            border-radius: 1.5rem;
+            padding: 2%;
+            width: 60%;
+            background: #f8f9fa;
+            font-weight: bold;
+            color: #383d41;
+            margin-top: 30%;
+            margin-bottom: 3%;
+            cursor: pointer;
+        }
+
+    .register-right {
+        background: #f8f9fa;
+        border-top-left-radius: 10% 50%;
+        border-bottom-left-radius: 10% 50%;
+    }
+
+    .register-left img {
+        margin-top: 15%;
+        margin-bottom: 5%;
+        width: 25%;
+        -webkit-animation: mover 2s infinite alternate;
+        animation: mover 1s infinite alternate;
+    }
+    #registerForm{
+        display: flex;
+        justify-content:center;
+        background-color: rgba(255, 255, 255, 0.8); /* Transparent white background */
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .register-left p {
+        font-weight: lighter;
+        padding: 12%;
+        margin-top: -9%;
+    }
+
+    .register .register-form {
+        padding: 3%;
+        margin-top: 15%;
+    }
+
+    .btnRegister {
+        float: right;
+        margin-top: 10%;
+        border: none;
+        border-radius: 1.5rem;
+        padding: 2%;
+        background: #FF7F50;
+        color: #fff;
+        font-weight: 600;
+        width: 50%;
+        cursor: pointer;
+    }
+    .welcome{
+        margin : auto 0;
+        transform: translateX(-15px);
+        color: #fff
+    }
+
+    .register .nav-tabs {
+        margin-top: 3%;
+        border: none;
+        background: #0062cc;
+        border-radius: 1.5rem;
+        width: 28%;
+        float: right;
+    }
+
+        .register .nav-tabs .nav-link {
+            padding: 2%;
+            height: 34px;
+            font-weight: 600;
+            color: #fff;
+            border-top-right-radius: 1.5rem;
+            border-bottom-right-radius: 1.5rem;
+        }
+
+            .register .nav-tabs .nav-link:hover {
+                border: none;
+            }
+
+            .register .nav-tabs .nav-link.active {
+                width: 100px;
+                color: #0062cc;
+                border: 2px solid #0062cc;
+                border-top-left-radius: 1.5rem;
+                border-bottom-left-radius: 1.5rem;
+            }
+
+    .register-heading {
+        text-align: center;
+        margin-top: 8%;
+        margin-bottom: -15%;
+        color: #495057;
+    }
+    .login{
+        padding : 10px 30px;
+        transition: 0.5s;
+        border-radius: 5px;
+        border-color: #fff;
+        Background: #FF7F50;
+        color:#fff;
+        
+        
+    }
+    .login:hover{
+        background: #D2691E;
+            border-color: #D2691E;
+            color: white;
+    }
+    label{
+        font-weight: bold;
+    }
+    .containerr register{
+        background-color: rgba(255, 255, 255, 0.8); /* Transparent white background */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .w-100 btn btn-lg btn-primary{
+        color: #FF7F50;
+    }
+    .w-100 btn btn-lg btn-primary:hover{
+        color: #D2691E;
+    }
+
+    </style>
+<!------ Include the above in your HEAD tag ---------->
+
+<div class="container register">
+    <div class="row">
+       <form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post" enctype="multipart/form-data">
+         <div class="welcome">
+            
+            <p>Already have an account? </p>
+                <a class="login" href="/Identity/Account/Login">Login</a><br />
+        </div>
+        <div class="col-md-9 register-right">
+            <div class="tab-content" id="myTabContent">
+                <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                    <h3 class="register-heading">Register </h3>
+                    <div class="row register-form">
+                        <!----------div class="col-md-6"--------->
+                            <div class="form-group">
+                                <label asp-for="Input.FirstName"></label>
+                                <input asp-for="Input.FirstName" type="text" class="form-control" placeholder="First Name *" value="" />
+                                <span asp-validation-for="Input.FirstName" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Input.LastName"></label>
+                                <input asp-for="Input.LastName" type="text" class="form-control" placeholder="Last Name *" value="" />
+                                <span asp-validation-for="Input.LastName" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Input.Password"></label>
+                                <input asp-for="Input.Password" type="password" class="form-control" placeholder="Password *" value="" />
+                                <span asp-validation-for="Input.Password" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Input.ConfirmPassword"></label>
+                                <input asp-for="Input.ConfirmPassword" type="password" class="form-control" placeholder="Confirm Password *" value="" />
+                                <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+                            </div>
+
+                        <!----/div--->
+                        <!------div class="col-md-6"---->
+                            <div class="form-group">
+                                <label asp-for="Input.Email"></label>
+                                <input asp-for="Input.Email" type="text" class="form-control" placeholder="Email Name *" value="" />
+                                <span asp-validation-for="Input.Email" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Input.ProfilePicture" class="control-label"></label>
+                                <input asp-for="Input.ProfilePicture" type="file" class="form-control" />
+                            </div>
+
+                            <button id="registerSubmit" type="submit" class="w-100 btn btn-lg btn-primary">Register</button>
+                        <!----/div---->
+                    
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        </form>
+    </div>
+
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
